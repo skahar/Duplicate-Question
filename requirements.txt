@@ -1,0 +1,6 @@
+certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
+Flask-Cors==3.0.10
+pretty-html-table==0.9.16
+python-editor==1.0.4
+SQLAlchemy==1.2.13
+wincertstore==0.2
